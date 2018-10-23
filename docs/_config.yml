@@ -3,4 +3,4 @@ auto: true
 server: true
 title: yhatanaka's something unidentidied
 show_downloads: false
-logo: /blog/logo.jpg
+logo: logo.jpg
